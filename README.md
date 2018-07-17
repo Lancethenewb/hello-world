@@ -1,2 +1,3 @@
 # hello-world
 My first step into programming.
+Hi, I ate too much fiber-rich cereal for breakfast this morning and I've had a toilet day....
